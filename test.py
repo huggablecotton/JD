@@ -1,2 +1,3 @@
 a=10
-print("hello world")
+b=15
+print(a+b)
